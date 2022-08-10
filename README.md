@@ -9,15 +9,15 @@ Contact [Buddy](mailto:partners@buddy.insure) to obtain a `partnerID` and compat
 ## Installation
 Install it from npm and include it in your React build process
 
-`npm install @buddy-technology/offer-component`
+`npm i buddy-offer-component`
   or 
-`yarn add @buddy-technology/offer-component`
+`yarn add buddy-offer-component`
 
 ---
 ## Basic Usage
 ```javascript
 import React from 'react';
-import BuddyOfferElement from '@buddy-technology/offer-component';
+import BuddyOfferElement from 'buddy-offer-component';
 
 function App() {
   return (
