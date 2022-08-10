@@ -1,5 +1,5 @@
 {
-  "name": "buddy-offer-component",
+  "name": "@buddy-technology/buddy-offer-component",
   "version": "0.2.4",
   "author": "Buddy Technology",
   "main": "dist/index.js",
